@@ -53,7 +53,7 @@ print(y)
 print(z)
 
 # multiline variable
-a = """ - this is
+a = """ this is
 my multiline
-variable - """
+variable """
  
